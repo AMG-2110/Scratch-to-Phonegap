@@ -10,9 +10,11 @@ sy<?xml version="1.0" encoding="UTF-8" ?>
     <name>[CheesyPuffs]</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
         Designer: Arseniy Gorinov
         Programmer: Anastasia Gorinova
+        
+        An app made using Scratch, GitHub, and PhoneGap.
+        Scratch is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See http://scratch.mit.edu.
     </description>
 
     <author href="http://scratch.mit.edu/users/AMG2110" email="lllnastialll@gmail.com">
