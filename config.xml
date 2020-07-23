@@ -3,7 +3,7 @@ sy<?xml version="1.0" encoding="UTF-8" ?>
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cheesypuffs.amg2110.edu.mit.scratch"
         versionCode = "10" 
-        version     = "1.0.0" >
+        version     = <"1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
